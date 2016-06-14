@@ -4,7 +4,7 @@ open System.Net
 //open Microsoft.FSharp.Collections
 
 //let readFile = File.ReadAllLines("/Users/reinatomlinson1/Desktop/Scratch/ios-sales/85830718_0114_AU.txt")
-let GetFiles =
+let ListOfFileNames =
   Directory.GetFiles("/Users/reinatomlinson1/Desktop/Scratch/ios-sales/")
 //let ex = File.Exists("/Users/reinatomlinson1/Desktop/Scratch/ios-sales/85830718_0114_AU.txt")
 //let first10 = readFile.Substring(0, 10)
@@ -20,15 +20,24 @@ let GetFiles =
 
 //readFile |> List.map
 
-let ReadFiles =
-  GetFiles.[0] |> "\n\n%s"//File.ReadAllLines |>  printfn "%A\n"
+let readFiles =
+  for f in ListOfFileNames.[0..] do
+    File.ReadAllLines(f)
+
+printfn "%A" readFiles
+
+//let ReadFiles =
+//for f in FileList do
+//  let TotalLines = File.ReadAllLines(f)
+//|> Seq.filter(fun x -> if x.Contains("Total_Amount") then true else false)
+    //|> Seq.filter(fun x -> if x.Contains("Total_Amount") then true else false)
 
 //let ParseForTotal =
 //  parseLines
 //  |> Seq.filter(fun x -> if x.Contains("Total_Amount") then true else false)
 
 //printfn "ADR lines: " + (ParseFileADR |> Seq.length).ToString()
-//printfn "%A" ParseForTotal
+//printfn "%A" ParseLines
 (*
 let ParseFileForWarnings =
   ParseFile
