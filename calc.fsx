@@ -22,8 +22,17 @@ let ListOfFileNames =
 
 let GetFileContent f = File.ReadAllLines(f)
 
+
 for f in ListOfFileNames.[0..] do
-  printfn "%A" (GetFileContent f)
+  GetFileContent f |> Seq.filter(fun x -> if x.Contains("a-dark-room") then true else false)
+  //|> printfn "%A" (GetFileContent f)
+
+let ParseForADR f =
+  GetFileContent f |> Seq.filter(fun x -> if x.Contains("a-dark-room") then true else false)
+  |> printfn "%s" (ParseForADR f |> Seq.length).toString
+
+//printfn "%d" (ParseForADR |> Seq.length)
+
 
 //let PrintArray a = for i in a.[0..] do printfn "\n%A" a
 
