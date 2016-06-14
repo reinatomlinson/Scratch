@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+03/01/2015	03/28/2015			theensign	2	0.90	1.80	NZD	S	908073488	Amirali Rajan	The Ensign			1		NZ			1.29	NZD
+03/01/2015	03/28/2015			theensign	21	0.90	18.90	NZD	S	908073488	Amirali Rajan	The Ensign			1F		NZ			1.29	NZD
+03/01/2015	03/28/2015			a-dark-room	317	0.90	285.30	NZD	S	736683061	Amirali Rajan	A Dark Room			1F		NZ			1.29	NZD
+Total_Rows	3
+Total_Amount	306
+Total_Units	340

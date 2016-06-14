@@ -1,0 +1,15 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/28/2015	08/01/2015			amirs-app	4	10.64	42.56	NOK	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		NO			19.00	NOK
+06/28/2015	08/01/2015			a-dark-room	2	10.64	21.28	NOK	S	736683061	Amirali Rajan	A Dark Room			1		NO			19.00	NOK
+06/28/2015	08/01/2015			amirs-app	5	16.24	81.20	NOK	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		NO			29.00	NOK
+06/28/2015	08/01/2015			flatland	1	5.04	5.04	NOK	S	977865620	Amirali Rajan	A Noble Circle			1F		NO			9.00	NOK
+06/28/2015	08/01/2015			a-dark-room	5	5.04	25.20	NOK	S	736683061	Amirali Rajan	A Dark Room			1F		NO			9.00	NOK
+06/28/2015	08/01/2015			theensign	-3	5.04	-15.12	NOK	R	908073488	Amirali Rajan	The Ensign			1F		NO		CMA-C	-9.00	NOK
+06/28/2015	08/01/2015			a-dark-room	23	10.64	244.72	NOK	S	736683061	Amirali Rajan	A Dark Room			1F		NO			19.00	NOK
+06/28/2015	08/01/2015			amirs-app	3	10.64	31.92	NOK	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		NO		CMA	19.00	NOK
+06/28/2015	08/01/2015			theensign	8	5.04	40.32	NOK	S	908073488	Amirali Rajan	The Ensign			1F		NO			9.00	NOK
+06/28/2015	08/01/2015			theensign	6	10.64	63.84	NOK	S	908073488	Amirali Rajan	The Ensign			1F		NO			19.00	NOK
+06/28/2015	08/01/2015			adr-bundle	7	16.24	113.68	NOK	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		NO			29.00	NOK
+Total_Rows	11
+Total_Amount	654.64
+Total_Units	61

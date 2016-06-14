@@ -1,0 +1,5 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+11/30/2014	12/27/2014			a-dark-room	3	8400.00	25200.00	IDR	S	736683061	Amirali Rajan	A Dark Room			1F		ID			12000.00	IDR
+Total_Rows	1
+Total_Amount	25200
+Total_Units	3

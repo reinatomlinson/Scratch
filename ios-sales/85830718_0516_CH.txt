@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+05/01/2016	05/28/2016			a-dark-room	16	0.65	10.40	CHF	S	736683061	Amirali Rajan	A Dark Room			1F		CH			1.00	CHF
+05/01/2016	05/28/2016			theensign	1	0.65	0.65	CHF	S	908073488	Amirali Rajan	The Ensign			1F		CH			1.00	CHF
+05/01/2016	05/28/2016			flatland	1	0.65	0.65	CHF	S	977865620	Amirali Rajan	A Noble Circle			1F		CH			1.00	CHF
+Total_Rows	3
+Total_Amount	11.7
+Total_Units	18

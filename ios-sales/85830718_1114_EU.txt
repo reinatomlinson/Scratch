@@ -1,0 +1,46 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+11/02/2014	11/29/2014			a-dark-room	9	0.54	4.86	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		ES			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	1	1.09	1.09	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		FI			1.79	EUR
+11/02/2014	11/29/2014			theensign	4	0.54	2.16	EUR	S	908073488	Amirali Rajan	The Ensign			1		AT			0.89	EUR
+11/02/2014	11/29/2014			theensign	1	0.54	0.54	EUR	S	908073488	Amirali Rajan	The Ensign			1		IE			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	1	1.09	1.09	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		ES			1.79	EUR
+11/02/2014	11/29/2014			a-dark-room	1	0.54	0.54	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		MT			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	2	0.54	1.08	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		RO			0.89	EUR
+11/02/2014	11/29/2014			theensign	5	0.54	2.70	EUR	S	908073488	Amirali Rajan	The Ensign			1		ES			0.89	EUR
+11/02/2014	11/29/2014			theensign	6	0.54	3.24	EUR	S	908073488	Amirali Rajan	The Ensign			1		IT			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	11	0.54	5.94	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		PL			0.89	EUR
+11/02/2014	11/29/2014			theensign	3	0.54	1.62	EUR	S	908073488	Amirali Rajan	The Ensign			1		FR			0.89	EUR
+11/02/2014	11/29/2014			theensign	4	0.54	2.16	EUR	S	908073488	Amirali Rajan	The Ensign			1		CZ			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	1	1.09	1.09	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		EE			1.79	EUR
+11/02/2014	11/29/2014			a-dark-room	2	0.54	1.08	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		BE			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	11	0.54	5.94	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		IT			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	2	1.09	2.18	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		AT			1.79	EUR
+11/02/2014	11/29/2014			a-dark-room	1	0.54	0.54	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		LT			0.89	EUR
+11/02/2014	11/29/2014			theensign	2	0.54	1.08	EUR	S	908073488	Amirali Rajan	The Ensign			1		PL			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	2	0.54	1.08	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		FI			0.89	EUR
+11/02/2014	11/29/2014			theensign	1	0.54	0.54	EUR	S	908073488	Amirali Rajan	The Ensign			1		PT			0.89	EUR
+11/02/2014	11/29/2014			theensign	1	0.54	0.54	EUR	S	908073488	Amirali Rajan	The Ensign			1		BE			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	6	1.09	6.54	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		DE			1.79	EUR
+11/02/2014	11/29/2014			a-dark-room	6	0.54	3.24	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		AT			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	2	0.54	1.08	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		HU			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	4	1.09	4.36	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		NL			1.79	EUR
+11/02/2014	11/29/2014			theensign	1	1.09	1.09	EUR	S	908073488	Amirali Rajan	The Ensign			1		DE			1.79	EUR
+11/02/2014	11/29/2014			a-dark-room	2	0.54	1.08	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		PT			0.89	EUR
+11/02/2014	11/29/2014			theensign	1	0.54	0.54	EUR	S	908073488	Amirali Rajan	The Ensign			1		GR			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	4	0.54	2.16	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		IE			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	1	1.09	1.09	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		PL			1.79	EUR
+11/02/2014	11/29/2014			theensign	1	0.54	0.54	EUR	S	908073488	Amirali Rajan	The Ensign			1		MT			0.89	EUR
+11/02/2014	11/29/2014			theensign	1	1.09	1.09	EUR	S	908073488	Amirali Rajan	The Ensign			1		FR			1.79	EUR
+11/02/2014	11/29/2014			a-dark-room	4	0.54	2.16	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		CZ			0.89	EUR
+11/02/2014	11/29/2014			theensign	24	0.54	12.96	EUR	S	908073488	Amirali Rajan	The Ensign			1		NL			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	20	0.54	10.80	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		FR			0.89	EUR
+11/02/2014	11/29/2014			theensign	1	0.54	0.54	EUR	S	908073488	Amirali Rajan	The Ensign			1		SK			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	3	1.09	3.27	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		IT			1.79	EUR
+11/02/2014	11/29/2014			theensign	34	0.54	18.36	EUR	S	908073488	Amirali Rajan	The Ensign			1		DE			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	12	0.54	6.48	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		NL			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	103	0.54	55.62	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		DE			0.89	EUR
+11/02/2014	11/29/2014			a-dark-room	3	1.09	3.27	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		FR			1.79	EUR
+11/02/2014	11/29/2014			theensign	2	0.54	1.08	EUR	S	908073488	Amirali Rajan	The Ensign			1		HU			0.89	EUR
+Total_Rows	42
+Total_Amount	178.44
+Total_Units	306

@@ -1,0 +1,15 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+09/27/2015	10/31/2015			a-dark-room	561	0.83	465.63	CAD	S	736683061	Amirali Rajan	A Dark Room			1F		CA			1.19	CAD
+09/27/2015	10/31/2015			a-dark-room	-6	0.70	-4.20	CAD	R	736683061	Amirali Rajan	A Dark Room			1F		CA		CMA-C	-0.99	CAD
+09/27/2015	10/31/2015			a-dark-room	1	0.70	0.70	CAD	S	736683061	Amirali Rajan	A Dark Room			1F		CA			0.99	CAD
+09/27/2015	10/31/2015			a-dark-room	-4	0.83	-3.32	CAD	R	736683061	Amirali Rajan	A Dark Room			1F		CA			-1.19	CAD
+09/27/2015	10/31/2015			theensign	107	0.83	88.81	CAD	S	908073488	Amirali Rajan	The Ensign			1F		CA			1.19	CAD
+09/27/2015	10/31/2015			theensign	-1	0.70	-0.70	CAD	R	908073488	Amirali Rajan	The Ensign			1		CA		CMA-C	-0.99	CAD
+09/27/2015	10/31/2015			flatland	-1	0.83	-0.83	CAD	R	977865620	Amirali Rajan	A Noble Circle			1F		CA			-1.19	CAD
+09/27/2015	10/31/2015			flatland	65	0.83	53.95	CAD	S	977865620	Amirali Rajan	A Noble Circle			1F		CA			1.19	CAD
+09/27/2015	10/31/2015			amirs-app	1	2.23	2.23	CAD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CA		CMA	3.17	CAD
+09/27/2015	10/31/2015			amirs-app	12	1.74	20.88	CAD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CA			2.49	CAD
+09/27/2015	10/31/2015			amirs-app	5	1.74	8.70	CAD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CA		CMA	2.49	CAD
+Total_Rows	11
+Total_Amount	631.85
+Total_Units	740

@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+05/04/2014	05/31/2014			a-dark-room	1	0.00	0.00	NZD	S	736683061	Amirali Rajan	A Dark Room			1F		NZ		CR	0.00	NZD
+05/04/2014	05/31/2014			a-dark-room	-1	0.90	-0.90	NZD	R	736683061	Amirali Rajan	A Dark Room			1F		NZ			-1.29	NZD
+05/04/2014	05/31/2014			a-dark-room	187	0.90	168.30	NZD	S	736683061	Amirali Rajan	A Dark Room			1F		NZ			1.29	NZD
+Total_Rows	3
+Total_Amount	167.4
+Total_Units	187

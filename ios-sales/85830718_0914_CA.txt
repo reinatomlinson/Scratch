@@ -1,0 +1,8 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+08/31/2014	09/27/2014			a-dark-room	-3	0.70	-2.10	CAD	R	736683061	Amirali Rajan	A Dark Room			1F		CA			-0.99	CAD
+08/31/2014	09/27/2014			a-dark-room	1770	0.70	1239.00	CAD	S	736683061	Amirali Rajan	A Dark Room			1F		CA			0.99	CAD
+08/31/2014	09/27/2014			theensign	762	0.70	533.40	CAD	S	908073488	Amirali Rajan	The Ensign			1		CA			0.99	CAD
+08/31/2014	09/27/2014			theensign	-2	0.70	-1.40	CAD	R	908073488	Amirali Rajan	The Ensign			1		CA			-0.99	CAD
+Total_Rows	4
+Total_Amount	1768.9
+Total_Units	2527

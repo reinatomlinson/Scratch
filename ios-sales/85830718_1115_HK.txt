@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+11/01/2015	11/28/2015			a-dark-room	15	5.60	84.00	HKD	S	736683061	Amirali Rajan	A Dark Room			1F		HK			8.00	HKD
+11/01/2015	11/28/2015			theensign	1	5.60	5.60	HKD	S	908073488	Amirali Rajan	The Ensign			1F		HK			8.00	HKD
+11/01/2015	11/28/2015			flatland	3	5.60	16.80	HKD	S	977865620	Amirali Rajan	A Noble Circle			1F		HK			8.00	HKD
+Total_Rows	3
+Total_Amount	106.4
+Total_Units	19

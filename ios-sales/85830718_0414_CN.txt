@@ -1,0 +1,5 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+03/30/2014	05/03/2014			a-dark-room	143	4.20	600.60	CNY	S	736683061	Amirali Rajan	A Dark Room			1F		CN			6.00	CNY
+Total_Rows	1
+Total_Amount	600.6
+Total_Units	143

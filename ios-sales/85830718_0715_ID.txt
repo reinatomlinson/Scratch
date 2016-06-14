@@ -1,0 +1,9 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/28/2015	08/01/2015			a-dark-room	15	16100.00	241500.00	IDR	S	736683061	Amirali Rajan	A Dark Room			1F		ID			23000.00	IDR
+06/28/2015	08/01/2015			adr-bundle	6	24500.00	147000.00	IDR	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		ID			35000.00	IDR
+06/28/2015	08/01/2015			amirs-app	1	24500.00	24500.00	IDR	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		ID			35000.00	IDR
+06/28/2015	08/01/2015			theensign	1	16100.00	16100.00	IDR	S	908073488	Amirali Rajan	The Ensign			1F		ID			23000.00	IDR
+06/28/2015	08/01/2015			flatland	1	8400.00	8400.00	IDR	S	977865620	Amirali Rajan	A Noble Circle			1F		ID			12000.00	IDR
+Total_Rows	5
+Total_Amount	437500
+Total_Units	24

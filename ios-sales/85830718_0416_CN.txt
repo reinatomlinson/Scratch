@@ -1,0 +1,9 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+03/27/2016	04/30/2016			a-dark-room	-1	0.69	-0.69	CNY	R	736683061	Amirali Rajan	A Dark Room			1F		CN			-1.00	CNY
+03/27/2016	04/30/2016			a-dark-room	864	0.69	596.16	CNY	S	736683061	Amirali Rajan	A Dark Room			1F		CN			1.00	CNY
+03/27/2016	04/30/2016			theensign	30	0.69	20.70	CNY	S	908073488	Amirali Rajan	The Ensign			1F		CN			1.00	CNY
+03/27/2016	04/30/2016			BeautifulGo	1	8.23	8.23	CNY	S	955295568	Amirali Rajan	Beautiful Go			1F		CN			12.00	CNY
+03/27/2016	04/30/2016			flatland	253	0.69	174.57	CNY	S	977865620	Amirali Rajan	A Noble Circle			1F		CN			1.00	CNY
+Total_Rows	5
+Total_Amount	798.97
+Total_Units	1147

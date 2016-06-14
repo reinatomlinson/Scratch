@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+05/03/2015	05/30/2015			theensign	1	42.00	42.00	TWD	S	908073488	Amirali Rajan	The Ensign			1F		TW			60.00	TWD
+05/03/2015	05/30/2015			a-dark-room	5	21.00	105.00	TWD	S	736683061	Amirali Rajan	A Dark Room			1F		TW			30.00	TWD
+05/03/2015	05/30/2015			BeautifulGo	1	42.00	42.00	TWD	S	955295568	Amirali Rajan	Beautiful Go			1F		TW			60.00	TWD
+Total_Rows	3
+Total_Amount	189
+Total_Units	7

@@ -1,0 +1,19 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+08/02/2015	08/29/2015			a-dark-room	-1	10.64	-10.64	SEK	R	736683061	Amirali Rajan	A Dark Room			1F		SE		CMA-C	-19.00	SEK
+08/02/2015	08/29/2015			a-dark-room	-2	5.04	-10.08	SEK	R	736683061	Amirali Rajan	A Dark Room			1F		SE		CMA-C	-9.00	SEK
+08/02/2015	08/29/2015			a-dark-room	3	10.64	31.92	SEK	S	736683061	Amirali Rajan	A Dark Room			1F		SE			19.00	SEK
+08/02/2015	08/29/2015			a-dark-room	-1	4.26	-4.26	SEK	R	736683061	Amirali Rajan	A Dark Room			1F		SE		CMA-C	-7.00	SEK
+08/02/2015	08/29/2015			a-dark-room	42	5.04	211.68	SEK	S	736683061	Amirali Rajan	A Dark Room			1F		SE			9.00	SEK
+08/02/2015	08/29/2015			theensign	-1	5.04	-5.04	SEK	R	908073488	Amirali Rajan	The Ensign			1F		SE		CMA-C	-9.00	SEK
+08/02/2015	08/29/2015			theensign	1	0.00	0.00	SEK	S	908073488	Amirali Rajan	The Ensign			1F		SE		CR	0.00	SEK
+08/02/2015	08/29/2015			theensign	22	5.04	110.88	SEK	S	908073488	Amirali Rajan	The Ensign			1F		SE			9.00	SEK
+08/02/2015	08/29/2015			theensign	1	10.64	10.64	SEK	S	908073488	Amirali Rajan	The Ensign			1F		SE			19.00	SEK
+08/02/2015	08/29/2015			flatland	3	5.04	15.12	SEK	S	977865620	Amirali Rajan	A Noble Circle			1F		SE			9.00	SEK
+08/02/2015	08/29/2015			amirs-app	3	10.64	31.92	SEK	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		SE		CMA	19.00	SEK
+08/02/2015	08/29/2015			amirs-app	4	10.64	42.56	SEK	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		SE			19.00	SEK
+08/02/2015	08/29/2015			amirs-app	1	16.24	16.24	SEK	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		SE			29.00	SEK
+08/02/2015	08/29/2015			amirs-app	1	15.68	15.68	SEK	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		SE		CMA	28.00	SEK
+08/02/2015	08/29/2015			adr-bundle	1	16.24	16.24	SEK	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		SE			29.00	SEK
+Total_Rows	15
+Total_Amount	472.86
+Total_Units	77

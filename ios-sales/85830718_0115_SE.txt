@@ -1,0 +1,11 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+12/28/2014	01/31/2015			theensign	1	4.26	4.26	SEK	S	908073488	Amirali Rajan	The Ensign			1		SE			6.09	SEK
+12/28/2014	01/31/2015			a-dark-room	21	4.26	89.46	SEK	S	736683061	Amirali Rajan	A Dark Room			1F		SE			7.00	SEK
+12/28/2014	01/31/2015			BeautifulGo	1	0.00	0.00	SEK	S	955295568	Amirali Rajan	Beautiful Go			1F		SE		CR	0.00	SEK
+12/28/2014	01/31/2015			theensign	2	5.04	10.08	SEK	S	908073488	Amirali Rajan	The Ensign			1		SE			9.00	SEK
+12/28/2014	01/31/2015			a-dark-room	2	4.26	8.52	SEK	S	736683061	Amirali Rajan	A Dark Room			1F		SE			6.09	SEK
+12/28/2014	01/31/2015			theensign	6	4.26	25.56	SEK	S	908073488	Amirali Rajan	The Ensign			1		SE			7.00	SEK
+12/28/2014	01/31/2015			a-dark-room	40	5.04	201.60	SEK	S	736683061	Amirali Rajan	A Dark Room			1F		SE			9.00	SEK
+Total_Rows	7
+Total_Amount	339.48
+Total_Units	73

@@ -1,0 +1,14 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+12/01/2013	12/28/2013			a-dark-room	2	1.09	2.18	EUR	S	736683061	Amirali Rajan	A Dark Room			1		IE			1.79	EUR
+12/01/2013	12/28/2013			a-dark-room	4	1.09	4.36	EUR	S	736683061	Amirali Rajan	A Dark Room			1		FR			1.79	EUR
+12/01/2013	12/28/2013			a-dark-room	1	1.09	1.09	EUR	S	736683061	Amirali Rajan	A Dark Room			1		FI			1.79	EUR
+12/01/2013	12/28/2013			a-dark-room	7	1.09	7.63	EUR	S	736683061	Amirali Rajan	A Dark Room			1		DE			1.79	EUR
+12/01/2013	12/28/2013			a-dark-room	2	1.09	2.18	EUR	S	736683061	Amirali Rajan	A Dark Room			1		AT			1.79	EUR
+12/01/2013	12/28/2013			a-dark-room	5	1.09	5.45	EUR	S	736683061	Amirali Rajan	A Dark Room			1		NL			1.79	EUR
+12/01/2013	12/28/2013			a-dark-room	2	1.09	2.18	EUR	S	736683061	Amirali Rajan	A Dark Room			1		ES			1.79	EUR
+12/01/2013	12/28/2013			a-dark-room	1	1.09	1.09	EUR	S	736683061	Amirali Rajan	A Dark Room			1		BE			1.79	EUR
+12/01/2013	12/28/2013			a-dark-room	1	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1		IT		CR	0.00	EUR
+12/01/2013	12/28/2013			a-dark-room	2	1.09	2.18	EUR	S	736683061	Amirali Rajan	A Dark Room			1		IT			1.79	EUR
+Total_Rows	10
+Total_Amount	28.34
+Total_Units	27

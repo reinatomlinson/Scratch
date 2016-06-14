@@ -1,0 +1,9 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+03/02/2014	03/29/2014			a-dark-room	719	0.42	301.98	GBP	S	736683061	Amirali Rajan	A Dark Room			1		GB			0.69	GBP
+03/02/2014	03/29/2014			a-dark-room	8	0.00	0.00	GBP	S	736683061	Amirali Rajan	A Dark Room			1		GB		CR	0.00	GBP
+03/02/2014	03/29/2014			a-dark-room	1	0.00	0.00	GBP	S	736683061	Amirali Rajan	A Dark Room			1F		GB		CR	0.00	GBP
+03/02/2014	03/29/2014			a-dark-room	742	0.42	311.64	GBP	S	736683061	Amirali Rajan	A Dark Room			1F		GB			0.69	GBP
+03/02/2014	03/29/2014			a-dark-room	-1	0.42	-0.42	GBP	R	736683061	Amirali Rajan	A Dark Room			1		GB			-0.69	GBP
+Total_Rows	5
+Total_Amount	613.2
+Total_Units	1469

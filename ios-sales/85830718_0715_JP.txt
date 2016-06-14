@@ -1,0 +1,13 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/28/2015	08/01/2015			theensign	1	84.00	84.00	JPY	S	908073488	Amirali Rajan	The Ensign			1F		JP			120.00	JPY
+06/28/2015	08/01/2015			a-dark-room	45	168.00	7560.00	JPY	S	736683061	Amirali Rajan	A Dark Room			1F		JP			240.00	JPY
+06/28/2015	08/01/2015			BeautifulGo	1	168.00	168.00	JPY	S	955295568	Amirali Rajan	Beautiful Go			1F		JP			240.00	JPY
+06/28/2015	08/01/2015			amirs-app	2	252.00	504.00	JPY	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		JP			360.00	JPY
+06/28/2015	08/01/2015			a-dark-room	5	84.00	420.00	JPY	S	736683061	Amirali Rajan	A Dark Room			1F		JP			120.00	JPY
+06/28/2015	08/01/2015			adr-bundle	13	252.00	3276.00	JPY	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		JP			360.00	JPY
+06/28/2015	08/01/2015			theensign	2	168.00	336.00	JPY	S	908073488	Amirali Rajan	The Ensign			1F		JP			240.00	JPY
+06/28/2015	08/01/2015			amirs-app	1	168.00	168.00	JPY	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		JP		CMA	240.00	JPY
+06/28/2015	08/01/2015			a-dark-room	-1	70.00	-70.00	JPY	R	736683061	Amirali Rajan	A Dark Room			1F		JP		CMA-C	-100.00	JPY
+Total_Rows	9
+Total_Amount	12446
+Total_Units	69

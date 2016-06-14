@@ -1,0 +1,5 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+05/04/2014	05/31/2014			a-dark-room	44	0.65	28.60	CHF	S	736683061	Amirali Rajan	A Dark Room			1F		CH			1.00	CHF
+Total_Rows	1
+Total_Amount	28.6
+Total_Units	44

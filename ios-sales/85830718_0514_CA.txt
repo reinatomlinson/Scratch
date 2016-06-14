@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+05/04/2014	05/31/2014			a-dark-room	19818	0.70	13872.60	CAD	S	736683061	Amirali Rajan	A Dark Room			1F		CA			0.99	CAD
+05/04/2014	05/31/2014			a-dark-room	2	0.00	0.00	CAD	S	736683061	Amirali Rajan	A Dark Room			1F		CA		CR	0.00	CAD
+05/04/2014	05/31/2014			a-dark-room	-25	0.70	-17.50	CAD	R	736683061	Amirali Rajan	A Dark Room			1F		CA			-0.99	CAD
+Total_Rows	3
+Total_Amount	13855.1
+Total_Units	19795

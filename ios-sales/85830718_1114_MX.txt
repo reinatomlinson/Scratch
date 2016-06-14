@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+11/02/2014	11/29/2014			a-dark-room	4	9.10	36.40	MXN	S	736683061	Amirali Rajan	A Dark Room			1F		MX			13.00	MXN
+11/02/2014	11/29/2014			theensign	1	18.20	18.20	MXN	S	908073488	Amirali Rajan	The Ensign			1		MX			26.00	MXN
+11/02/2014	11/29/2014			theensign	1	9.10	9.10	MXN	S	908073488	Amirali Rajan	The Ensign			1		MX			13.00	MXN
+Total_Rows	3
+Total_Amount	63.7
+Total_Units	6

@@ -1,0 +1,13 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/28/2015	08/01/2015			a-dark-room	-1	10.50	-10.50	HKD	R	736683061	Amirali Rajan	A Dark Room			1F		HK		CMA-C	-15.00	HKD
+06/28/2015	08/01/2015			amirs-app	1	16.10	16.10	HKD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		HK		CMA	23.00	HKD
+06/28/2015	08/01/2015			adr-bundle	10	16.10	161.00	HKD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		HK			23.00	HKD
+06/28/2015	08/01/2015			a-dark-room	3	5.60	16.80	HKD	S	736683061	Amirali Rajan	A Dark Room			1F		HK			8.00	HKD
+06/28/2015	08/01/2015			a-dark-room	-2	5.60	-11.20	HKD	R	736683061	Amirali Rajan	A Dark Room			1F		HK		CMA-C	-8.00	HKD
+06/28/2015	08/01/2015			theensign	1	10.50	10.50	HKD	S	908073488	Amirali Rajan	The Ensign			1F		HK			15.00	HKD
+06/28/2015	08/01/2015			adr-bundle	1	16.10	16.10	HKD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		HK		CMA	23.00	HKD
+06/28/2015	08/01/2015			amirs-app	1	11.20	11.20	HKD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		HK		CMA	16.00	HKD
+06/28/2015	08/01/2015			a-dark-room	13	10.50	136.50	HKD	S	736683061	Amirali Rajan	A Dark Room			1F		HK			15.00	HKD
+Total_Rows	9
+Total_Amount	346.5
+Total_Units	27

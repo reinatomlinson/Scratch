@@ -1,0 +1,17 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/28/2015	08/01/2015			theensign	1	8.96	8.96	DKK	S	908073488	Amirali Rajan	The Ensign			1		DK			16.00	DKK
+06/28/2015	08/01/2015			flatland	1	4.48	4.48	DKK	S	977865620	Amirali Rajan	A Noble Circle			1F		DK			8.00	DKK
+06/28/2015	08/01/2015			amirs-app	2	8.96	17.92	DKK	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		DK			16.00	DKK
+06/28/2015	08/01/2015			amirs-app	1	8.96	8.96	DKK	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		DK		CMA	16.00	DKK
+06/28/2015	08/01/2015			adr-bundle	3	14.00	42.00	DKK	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		DK			25.00	DKK
+06/28/2015	08/01/2015			a-dark-room	7	4.48	31.36	DKK	S	736683061	Amirali Rajan	A Dark Room			1F		DK			8.00	DKK
+06/28/2015	08/01/2015			amirs-app	6	14.00	84.00	DKK	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		DK			25.00	DKK
+06/28/2015	08/01/2015			a-dark-room	-2	4.26	-8.52	DKK	R	736683061	Amirali Rajan	A Dark Room			1F		DK		CMA-C	-7.00	DKK
+06/28/2015	08/01/2015			a-dark-room	-1	4.48	-4.48	DKK	R	736683061	Amirali Rajan	A Dark Room			1F		DK		CMA-C	-8.00	DKK
+06/28/2015	08/01/2015			a-dark-room	8	8.96	71.68	DKK	S	736683061	Amirali Rajan	A Dark Room			1F		DK			16.00	DKK
+06/28/2015	08/01/2015			theensign	6	4.48	26.88	DKK	S	908073488	Amirali Rajan	The Ensign			1F		DK			8.00	DKK
+06/28/2015	08/01/2015			theensign	3	8.96	26.88	DKK	S	908073488	Amirali Rajan	The Ensign			1F		DK			16.00	DKK
+06/28/2015	08/01/2015			amirs-app	2	14.00	28.00	DKK	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		DK		CMA	25.00	DKK
+Total_Rows	13
+Total_Amount	338.12
+Total_Units	37

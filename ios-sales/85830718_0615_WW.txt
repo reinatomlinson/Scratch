@@ -1,0 +1,33 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+05/31/2015	06/27/2015			a-dark-room	2	1.40	2.80	USD	S	736683061	Amirali Rajan	A Dark Room			1F		MY			1.99	USD
+05/31/2015	06/27/2015			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1		PH			0.99	USD
+05/31/2015	06/27/2015			adr-bundle	1	2.10	2.10	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		BY			2.99	USD
+05/31/2015	06/27/2015			a-dark-room	1	1.40	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		AZ			1.99	USD
+05/31/2015	06/27/2015			adr-bundle	1	2.10	2.10	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		MY			2.99	USD
+05/31/2015	06/27/2015			adr-bundle	1	2.10	2.10	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		TH			2.99	USD
+05/31/2015	06/27/2015			adr-bundle	2	2.10	4.20	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		KR			2.99	USD
+05/31/2015	06/27/2015			theensign	1	1.40	1.40	USD	S	908073488	Amirali Rajan	The Ensign			1F		MK			1.99	USD
+05/31/2015	06/27/2015			theensign	1	1.40	1.40	USD	S	908073488	Amirali Rajan	The Ensign			1F		NG			1.99	USD
+05/31/2015	06/27/2015			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		PH			0.99	USD
+05/31/2015	06/27/2015			a-dark-room	8	1.40	11.20	USD	S	736683061	Amirali Rajan	A Dark Room			1F		KR			1.99	USD
+05/31/2015	06/27/2015			adr-bundle	1	2.10	2.10	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		UA			2.99	USD
+05/31/2015	06/27/2015			adr-bundle	1	2.10	2.10	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		HR			3.74	USD
+05/31/2015	06/27/2015			a-dark-room	3	1.40	4.20	USD	S	736683061	Amirali Rajan	A Dark Room			1F		UA			1.99	USD
+05/31/2015	06/27/2015			adr-bundle	1	2.10	2.10	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		TM			2.99	USD
+05/31/2015	06/27/2015			a-dark-room	2	1.40	2.80	USD	S	736683061	Amirali Rajan	A Dark Room			1F		NG			1.99	USD
+05/31/2015	06/27/2015			adr-bundle	1	2.10	2.10	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		KE			2.99	USD
+05/31/2015	06/27/2015			adr-bundle	1	2.10	2.10	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		PH			2.99	USD
+05/31/2015	06/27/2015			adr-bundle	1	2.10	2.10	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		LB			2.99	USD
+05/31/2015	06/27/2015			theensign	1	1.40	1.40	USD	S	908073488	Amirali Rajan	The Ensign			1F		UA			1.99	USD
+05/31/2015	06/27/2015			theensign	3	1.40	4.20	USD	S	908073488	Amirali Rajan	The Ensign			1F		KR			1.99	USD
+05/31/2015	06/27/2015			a-dark-room	1	1.40	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		EG			1.99	USD
+05/31/2015	06/27/2015			a-dark-room	-1	1.40	-1.40	USD	R	736683061	Amirali Rajan	A Dark Room			1F		UA			-1.99	USD
+05/31/2015	06/27/2015			a-dark-room	2	1.40	2.80	USD	S	736683061	Amirali Rajan	A Dark Room			1F		PH			1.99	USD
+05/31/2015	06/27/2015			a-dark-room	1	1.40	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		KW			1.99	USD
+05/31/2015	06/27/2015			a-dark-room	-1	1.40	-1.40	USD	R	736683061	Amirali Rajan	A Dark Room			1F		KR			-1.99	USD
+05/31/2015	06/27/2015			a-dark-room	1	1.40	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		LK			1.99	USD
+05/31/2015	06/27/2015			adr-bundle	1	2.10	2.10	USD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		AZ			2.99	USD
+05/31/2015	06/27/2015			a-dark-room	4	1.40	5.60	USD	S	736683061	Amirali Rajan	A Dark Room			1F		TH			1.99	USD
+Total_Rows	29
+Total_Amount	67.2
+Total_Units	43

@@ -1,0 +1,12 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+05/31/2015	06/27/2015			a-dark-room	11	18.20	200.20	MXN	S	736683061	Amirali Rajan	A Dark Room			1F		MX			26.00	MXN
+05/31/2015	06/27/2015			theensign	3	18.20	54.60	MXN	S	908073488	Amirali Rajan	The Ensign			1F		MX			26.00	MXN
+05/31/2015	06/27/2015			adr-bundle	3	27.30	81.90	MXN	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		MX			39.00	MXN
+05/31/2015	06/27/2015			a-dark-room	-1	18.20	-18.20	MXN	R	736683061	Amirali Rajan	A Dark Room			1F		MX		CMA-C	-26.00	MXN
+05/31/2015	06/27/2015			a-dark-room	1	9.10	9.10	MXN	S	736683061	Amirali Rajan	A Dark Room			1F		MX			13.00	MXN
+05/31/2015	06/27/2015			adr-bundle	1	27.30	27.30	MXN	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		MX		CMA	39.00	MXN
+05/31/2015	06/27/2015			theensign	1	9.10	9.10	MXN	S	908073488	Amirali Rajan	The Ensign			1F		MX			13.00	MXN
+05/31/2015	06/27/2015			BeautifulGo	1	18.20	18.20	MXN	S	955295568	Amirali Rajan	Beautiful Go			1F		MX			26.00	MXN
+Total_Rows	8
+Total_Amount	382.2
+Total_Units	20

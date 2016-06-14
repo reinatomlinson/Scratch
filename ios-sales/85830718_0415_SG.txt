@@ -1,0 +1,8 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+03/29/2015	05/02/2015			BeautifulGo	1	0.00	0.00	SGD	S	955295568	Amirali Rajan	Beautiful Go			1F		SG		CR	0.00	SGD
+03/29/2015	05/02/2015			a-dark-room	17	0.90	15.30	SGD	S	736683061	Amirali Rajan	A Dark Room			1F		SG			1.28	SGD
+03/29/2015	05/02/2015			a-dark-room	-1	0.90	-0.90	SGD	R	736683061	Amirali Rajan	A Dark Room			1F		SG			-1.28	SGD
+03/29/2015	05/02/2015			theensign	4	0.90	3.60	SGD	S	908073488	Amirali Rajan	The Ensign			1F		SG			1.28	SGD
+Total_Rows	4
+Total_Amount	18
+Total_Units	21

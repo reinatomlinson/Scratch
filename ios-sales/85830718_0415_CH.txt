@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+03/29/2015	05/02/2015			BeautifulGo	1	1.30	1.30	CHF	S	955295568	Amirali Rajan	Beautiful Go			1F		CH			2.00	CHF
+03/29/2015	05/02/2015			a-dark-room	27	0.65	17.55	CHF	S	736683061	Amirali Rajan	A Dark Room			1F		CH			1.00	CHF
+03/29/2015	05/02/2015			theensign	6	0.65	3.90	CHF	S	908073488	Amirali Rajan	The Ensign			1F		CH			1.00	CHF
+Total_Rows	3
+Total_Amount	22.75
+Total_Units	34

@@ -1,0 +1,34 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/28/2015	08/01/2015			theensign	-1	1.60	-1.60	CAD	R	908073488	Amirali Rajan	The Ensign			1F		CA		CMA-C	-2.29	CAD
+06/28/2015	08/01/2015			theensign	-4	0.83	-3.32	CAD	R	908073488	Amirali Rajan	The Ensign			1		CA		CMA-C	-1.19	CAD
+06/28/2015	08/01/2015			a-dark-room	-1	1.60	-1.60	CAD	R	736683061	Amirali Rajan	A Dark Room			1		CA		CMA-C	-2.29	CAD
+06/28/2015	08/01/2015			flatland	81	0.83	67.23	CAD	S	977865620	Amirali Rajan	A Noble Circle			1F		CA			1.19	CAD
+06/28/2015	08/01/2015			amirs-app	2	2.23	4.46	CAD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CA		CMA	3.17	CAD
+06/28/2015	08/01/2015			flatland	-1	0.00	0.00	CAD	R	977865620	Amirali Rajan	A Noble Circle			1F		CA		CMA-C	0.00	CAD
+06/28/2015	08/01/2015			theensign	141	0.83	117.03	CAD	S	908073488	Amirali Rajan	The Ensign			1F		CA			1.19	CAD
+06/28/2015	08/01/2015			a-dark-room	100	0.83	83.00	CAD	S	736683061	Amirali Rajan	A Dark Room			1F		CA			1.19	CAD
+06/28/2015	08/01/2015			a-dark-room	-5	1.60	-8.00	CAD	R	736683061	Amirali Rajan	A Dark Room			1F		CA		CMA-C	-2.29	CAD
+06/28/2015	08/01/2015			theensign	-2	0.70	-1.40	CAD	R	908073488	Amirali Rajan	The Ensign			1		CA		CMA-C	-0.99	CAD
+06/28/2015	08/01/2015			theensign	4	1.60	6.40	CAD	S	908073488	Amirali Rajan	The Ensign			1		CA			2.29	CAD
+06/28/2015	08/01/2015			amirs-app	1	2.36	2.36	CAD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CA		CMA	3.37	CAD
+06/28/2015	08/01/2015			amirs-app	9	1.66	14.94	CAD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CA		CMA	2.38	CAD
+06/28/2015	08/01/2015			amirs-app	35	1.60	56.00	CAD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CA			2.29	CAD
+06/28/2015	08/01/2015			adr-bundle	3	2.44	7.32	CAD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		CA		CMA	3.49	CAD
+06/28/2015	08/01/2015			amirs-app	27	2.44	65.88	CAD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CA		CMA	3.49	CAD
+06/28/2015	08/01/2015			a-dark-room	-30	0.70	-21.00	CAD	R	736683061	Amirali Rajan	A Dark Room			1F		CA		CMA-C	-0.99	CAD
+06/28/2015	08/01/2015			theensign	-2	0.83	-1.66	CAD	R	908073488	Amirali Rajan	The Ensign			1F		CA		CMA-C	-1.19	CAD
+06/28/2015	08/01/2015			theensign	179	1.60	286.40	CAD	S	908073488	Amirali Rajan	The Ensign			1F		CA			2.29	CAD
+06/28/2015	08/01/2015			a-dark-room	7	1.60	11.20	CAD	S	736683061	Amirali Rajan	A Dark Room			1		CA			2.29	CAD
+06/28/2015	08/01/2015			adr-bundle	104	2.44	253.76	CAD	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		CA			3.49	CAD
+06/28/2015	08/01/2015			flatland	4	0.83	3.32	CAD	S	977865620	Amirali Rajan	A Noble Circle			1		CA			1.19	CAD
+06/28/2015	08/01/2015			BeautifulGo	1	1.60	1.60	CAD	S	955295568	Amirali Rajan	Beautiful Go			1		CA			2.29	CAD
+06/28/2015	08/01/2015			a-dark-room	-1	1.40	-1.40	CAD	R	736683061	Amirali Rajan	A Dark Room			1		CA		CMA-C	-1.99	CAD
+06/28/2015	08/01/2015			a-dark-room	-13	0.83	-10.79	CAD	R	736683061	Amirali Rajan	A Dark Room			1F		CA		CMA-C	-1.19	CAD
+06/28/2015	08/01/2015			amirs-app	51	2.44	124.44	CAD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CA			3.49	CAD
+06/28/2015	08/01/2015			a-dark-room	-2	1.60	-3.20	CAD	R	736683061	Amirali Rajan	A Dark Room			1F		CA			-2.29	CAD
+06/28/2015	08/01/2015			a-dark-room	207	1.60	331.20	CAD	S	736683061	Amirali Rajan	A Dark Room			1F		CA			2.29	CAD
+06/28/2015	08/01/2015			amirs-app	11	1.60	17.60	CAD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CA		CMA	2.29	CAD
+06/28/2015	08/01/2015			a-dark-room	1	0.70	0.70	CAD	S	736683061	Amirali Rajan	A Dark Room			1F		CA			0.99	CAD
+Total_Rows	30
+Total_Amount	1400.87
+Total_Units	906

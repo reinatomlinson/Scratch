@@ -1,0 +1,32 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+05/04/2014	05/31/2014			a-dark-room	226	0.54	122.04	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		DE			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	28	0.54	15.12	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		PL			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	1	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		NL		CR	0.00	EUR
+05/04/2014	05/31/2014			a-dark-room	26	0.54	14.04	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		IT			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	5	0.54	2.70	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		BG			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	1	0.54	0.54	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		SI			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	14	0.54	7.56	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		RO			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	26	0.54	14.04	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		FI			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	2	0.54	1.08	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		CY			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	11	0.54	5.94	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		PT			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	1	0.54	0.54	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		LT			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	1	0.54	0.54	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		MT			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	29	0.54	15.66	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		BE			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	10	0.54	5.40	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		GR			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	1	0.54	0.54	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		LV			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	-1	0.54	-0.54	EUR	R	736683061	Amirali Rajan	A Dark Room			1F		AT			-0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	1	0.00	0.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		BE		CR	0.00	EUR
+05/04/2014	05/31/2014			a-dark-room	-1	0.54	-0.54	EUR	R	736683061	Amirali Rajan	A Dark Room			1F		ES			-0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	37	0.54	19.98	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		FR			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	1	0.54	0.54	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		EE			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	57	0.54	30.78	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		IE			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	12	0.54	6.48	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		SK			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	5	0.54	2.70	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		HU			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	20	0.54	10.80	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		AT			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	61	0.54	32.94	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		ES			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	100	0.54	54.00	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		CZ			0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	-1	0.54	-0.54	EUR	R	736683061	Amirali Rajan	A Dark Room			1F		FR			-0.89	EUR
+05/04/2014	05/31/2014			a-dark-room	256	0.54	138.24	EUR	S	736683061	Amirali Rajan	A Dark Room			1F		NL			0.89	EUR
+Total_Rows	28
+Total_Amount	500.58
+Total_Units	929

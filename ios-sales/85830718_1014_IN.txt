@@ -1,0 +1,5 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+09/28/2014	11/01/2014			a-dark-room	5	42.00	210.00	INR	S	736683061	Amirali Rajan	A Dark Room			1F		IN			60.00	INR
+Total_Rows	1
+Total_Amount	210
+Total_Units	5

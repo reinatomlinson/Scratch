@@ -1,0 +1,8 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+09/28/2014	11/01/2014			theensign	230	0.82	188.60	AUD	S	908073488	Amirali Rajan	The Ensign			1		AU			1.29	AUD
+09/28/2014	11/01/2014			theensign	-1	0.82	-0.82	AUD	R	908073488	Amirali Rajan	The Ensign			1		AU			-1.29	AUD
+09/28/2014	11/01/2014			a-dark-room	-2	0.82	-1.64	AUD	R	736683061	Amirali Rajan	A Dark Room			1F		AU			-1.29	AUD
+09/28/2014	11/01/2014			a-dark-room	270	0.82	221.40	AUD	S	736683061	Amirali Rajan	A Dark Room			1F		AU			1.29	AUD
+Total_Rows	4
+Total_Amount	407.54
+Total_Units	497

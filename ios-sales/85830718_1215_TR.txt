@@ -1,0 +1,9 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+11/29/2015	12/26/2015			a-dark-room	11	0.41	4.51	TRY	S	736683061	Amirali Rajan	A Dark Room			1F		TR			0.59	TRY
+11/29/2015	12/26/2015			a-dark-room	5	1.88	9.40	TRY	S	736683061	Amirali Rajan	A Dark Room			1F		TR			2.69	TRY
+11/29/2015	12/26/2015			theensign	3	0.41	1.23	TRY	S	908073488	Amirali Rajan	The Ensign			1F		TR			0.59	TRY
+11/29/2015	12/26/2015			theensign	2	1.88	3.76	TRY	S	908073488	Amirali Rajan	The Ensign			1F		TR			2.69	TRY
+11/29/2015	12/26/2015			flatland	1	0.41	0.41	TRY	S	977865620	Amirali Rajan	A Noble Circle			1F		TR			0.59	TRY
+Total_Rows	5
+Total_Amount	19.31
+Total_Units	22

@@ -1,0 +1,6 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+08/03/2014	08/30/2014			a-dark-room	13	7.36	95.68	ZAR	S	736683061	Amirali Rajan	A Dark Room			1F		ZA			11.99	ZAR
+08/03/2014	08/30/2014			theensign	3	7.36	22.08	ZAR	S	908073488	Amirali Rajan	The Ensign			1		ZA			11.99	ZAR
+Total_Rows	2
+Total_Amount	117.76
+Total_Units	16

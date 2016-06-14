@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+03/30/2014	05/03/2014			a-dark-room	1	0.00	0.00	SGD	S	736683061	Amirali Rajan	A Dark Room			1F		SG		CR	0.00	SGD
+03/30/2014	05/03/2014			a-dark-room	-3	0.90	-2.70	SGD	R	736683061	Amirali Rajan	A Dark Room			1F		SG			-1.28	SGD
+03/30/2014	05/03/2014			a-dark-room	571	0.90	513.90	SGD	S	736683061	Amirali Rajan	A Dark Room			1F		SG			1.28	SGD
+Total_Rows	3
+Total_Amount	511.2
+Total_Units	569

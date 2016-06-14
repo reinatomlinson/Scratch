@@ -1,0 +1,15 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+12/27/2015	01/30/2016			a-dark-room	-1	0.69	-0.69	CAD	R	736683061	Amirali Rajan	A Dark Room			1F		CA			-0.99	CAD
+12/27/2015	01/30/2016			a-dark-room	-1	0.83	-0.83	CAD	R	736683061	Amirali Rajan	A Dark Room			1F		CA			-1.19	CAD
+12/27/2015	01/30/2016			a-dark-room	325	0.83	269.75	CAD	S	736683061	Amirali Rajan	A Dark Room			1F		CA			1.19	CAD
+12/27/2015	01/30/2016			a-dark-room	93	0.69	64.17	CAD	S	736683061	Amirali Rajan	A Dark Room			1F		CA			0.99	CAD
+12/27/2015	01/30/2016			a-dark-room	2304	0.00	0.00	CAD	S	736683061	Amirali Rajan	A Dark Room			1F		CA		CR	0.00	CAD
+12/27/2015	01/30/2016			theensign	85	0.83	70.55	CAD	S	908073488	Amirali Rajan	The Ensign			1F		CA			1.19	CAD
+12/27/2015	01/30/2016			theensign	35	0.69	24.15	CAD	S	908073488	Amirali Rajan	The Ensign			1F		CA			0.99	CAD
+12/27/2015	01/30/2016			BeautifulGo	2	1.60	3.20	CAD	S	955295568	Amirali Rajan	Beautiful Go			1F		CA			2.29	CAD
+12/27/2015	01/30/2016			flatland	7	0.69	4.83	CAD	S	977865620	Amirali Rajan	A Noble Circle			1F		CA			0.99	CAD
+12/27/2015	01/30/2016			flatland	-1	0.83	-0.83	CAD	R	977865620	Amirali Rajan	A Noble Circle			1F		CA			-1.19	CAD
+12/27/2015	01/30/2016			flatland	32	0.83	26.56	CAD	S	977865620	Amirali Rajan	A Noble Circle			1F		CA			1.19	CAD
+Total_Rows	11
+Total_Amount	460.86
+Total_Units	2880

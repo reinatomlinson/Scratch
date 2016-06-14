@@ -1,0 +1,32 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+08/02/2015	08/29/2015			a-dark-room	395	0.46	181.70	GBP	S	736683061	Amirali Rajan	A Dark Room			1F		GB			0.79	GBP
+08/02/2015	08/29/2015			a-dark-room	-21	0.42	-8.82	GBP	R	736683061	Amirali Rajan	A Dark Room			1F		GB		CMA-C	-0.69	GBP
+08/02/2015	08/29/2015			a-dark-room	-2	0.46	-0.92	GBP	R	736683061	Amirali Rajan	A Dark Room			1F		GB		CMA-C	-0.79	GBP
+08/02/2015	08/29/2015			a-dark-room	15	0.87	13.05	GBP	S	736683061	Amirali Rajan	A Dark Room			1F		GB			1.49	GBP
+08/02/2015	08/29/2015			a-dark-room	-1	0.42	-0.42	GBP	R	736683061	Amirali Rajan	A Dark Room			1		GB		CMA-C	-0.69	GBP
+08/02/2015	08/29/2015			a-dark-room	1	0.42	0.42	GBP	S	736683061	Amirali Rajan	A Dark Room			1F		GB		CMA-C	0.69	GBP
+08/02/2015	08/29/2015			a-dark-room	-2	0.87	-1.74	GBP	R	736683061	Amirali Rajan	A Dark Room			1F		GB		CMA-C	-1.49	GBP
+08/02/2015	08/29/2015			theensign	-1	0.87	-0.87	GBP	R	908073488	Amirali Rajan	The Ensign			1F		GB		CMA-C	-1.49	GBP
+08/02/2015	08/29/2015			theensign	10	0.87	8.70	GBP	S	908073488	Amirali Rajan	The Ensign			1F		GB			1.49	GBP
+08/02/2015	08/29/2015			theensign	-1	0.46	-0.46	GBP	R	908073488	Amirali Rajan	The Ensign			1F		GB		CMA-C	-0.79	GBP
+08/02/2015	08/29/2015			theensign	188	0.46	86.48	GBP	S	908073488	Amirali Rajan	The Ensign			1F		GB			0.79	GBP
+08/02/2015	08/29/2015			theensign	-1	0.46	-0.46	GBP	R	908073488	Amirali Rajan	The Ensign			1		GB		CMA-C	-0.79	GBP
+08/02/2015	08/29/2015			theensign	-3	0.42	-1.26	GBP	R	908073488	Amirali Rajan	The Ensign			1		GB		CMA-C	-0.69	GBP
+08/02/2015	08/29/2015			theensign	1	0.42	0.42	GBP	S	908073488	Amirali Rajan	The Ensign			1		GB			0.69	GBP
+08/02/2015	08/29/2015			theensign	1	0.46	0.46	GBP	S	908073488	Amirali Rajan	The Ensign			1		GB			0.79	GBP
+08/02/2015	08/29/2015			theensign	1	0.00	0.00	GBP	S	908073488	Amirali Rajan	The Ensign			1F		GB		CR	0.00	GBP
+08/02/2015	08/29/2015			BeautifulGo	1	0.87	0.87	GBP	S	955295568	Amirali Rajan	Beautiful Go			1F		GB			1.49	GBP
+08/02/2015	08/29/2015			flatland	28	0.46	12.88	GBP	S	977865620	Amirali Rajan	A Noble Circle			1F		GB			0.79	GBP
+08/02/2015	08/29/2015			amirs-app	-1	1.34	-1.34	GBP	R	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		GB			-2.29	GBP
+08/02/2015	08/29/2015			amirs-app	3	0.92	2.76	GBP	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		GB		CMA	1.58	GBP
+08/02/2015	08/29/2015			amirs-app	3	1.30	3.90	GBP	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		GB		CMA	2.17	GBP
+08/02/2015	08/29/2015			amirs-app	17	0.87	14.79	GBP	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		GB		CMA	1.49	GBP
+08/02/2015	08/29/2015			amirs-app	13	1.34	17.42	GBP	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		GB			2.29	GBP
+08/02/2015	08/29/2015			amirs-app	-1	0.87	-0.87	GBP	R	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		GB		CMA	-1.49	GBP
+08/02/2015	08/29/2015			amirs-app	1	1.29	1.29	GBP	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		GB		CMA	2.18	GBP
+08/02/2015	08/29/2015			amirs-app	21	0.87	18.27	GBP	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		GB			1.49	GBP
+08/02/2015	08/29/2015			amirs-app	3	1.34	4.02	GBP	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		GB		CMA	2.29	GBP
+08/02/2015	08/29/2015			adr-bundle	5	1.34	6.70	GBP	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		GB			2.29	GBP
+Total_Rows	28
+Total_Amount	356.97
+Total_Units	673

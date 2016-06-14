@@ -1,0 +1,5 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+12/28/2014	01/31/2015			a-dark-room	15	7.36	110.40	ZAR	S	736683061	Amirali Rajan	A Dark Room			1F		ZA			11.99	ZAR
+Total_Rows	1
+Total_Amount	110.4
+Total_Units	15

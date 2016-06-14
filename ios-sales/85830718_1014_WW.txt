@@ -1,0 +1,19 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+09/28/2014	11/01/2014			theensign	3	0.70	2.10	USD	S	908073488	Amirali Rajan	The Ensign			1		TH			0.99	USD
+09/28/2014	11/01/2014			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		UG			0.99	USD
+09/28/2014	11/01/2014			a-dark-room	2	0.70	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		MY			0.99	USD
+09/28/2014	11/01/2014			theensign	2	0.70	1.40	USD	S	908073488	Amirali Rajan	The Ensign			1		MY			0.99	USD
+09/28/2014	11/01/2014			a-dark-room	7	0.70	4.90	USD	S	736683061	Amirali Rajan	A Dark Room			1F		PH			0.99	USD
+09/28/2014	11/01/2014			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1		KW			0.99	USD
+09/28/2014	11/01/2014			a-dark-room	4	0.70	2.80	USD	S	736683061	Amirali Rajan	A Dark Room			1F		UA			0.99	USD
+09/28/2014	11/01/2014			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		BY			0.99	USD
+09/28/2014	11/01/2014			a-dark-room	2	0.70	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		HR			0.99	USD
+09/28/2014	11/01/2014			a-dark-room	2	0.70	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		TH			0.99	USD
+09/28/2014	11/01/2014			theensign	2	0.70	1.40	USD	S	908073488	Amirali Rajan	The Ensign			1		UA			0.99	USD
+09/28/2014	11/01/2014			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		LB			0.99	USD
+09/28/2014	11/01/2014			a-dark-room	13	0.70	9.10	USD	S	736683061	Amirali Rajan	A Dark Room			1F		KR			0.99	USD
+09/28/2014	11/01/2014			theensign	6	0.70	4.20	USD	S	908073488	Amirali Rajan	The Ensign			1		KR			0.99	USD
+09/28/2014	11/01/2014			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1		AZ			0.99	USD
+Total_Rows	15
+Total_Amount	33.6
+Total_Units	48

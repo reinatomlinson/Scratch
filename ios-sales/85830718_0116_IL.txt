@@ -1,0 +1,8 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+12/27/2015	01/30/2016			a-dark-room	3	2.73	8.19	ILS	S	736683061	Amirali Rajan	A Dark Room			1F		IL			3.90	ILS
+12/27/2015	01/30/2016			a-dark-room	57	0.00	0.00	ILS	S	736683061	Amirali Rajan	A Dark Room			1F		IL		CR	0.00	ILS
+12/27/2015	01/30/2016			a-dark-room	3	2.45	7.35	ILS	S	736683061	Amirali Rajan	A Dark Room			1F		IL			3.50	ILS
+12/27/2015	01/30/2016			theensign	1	2.73	2.73	ILS	S	908073488	Amirali Rajan	The Ensign			1F		IL			3.90	ILS
+Total_Rows	4
+Total_Amount	18.27
+Total_Units	64

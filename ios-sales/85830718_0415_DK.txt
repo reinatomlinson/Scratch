@@ -1,0 +1,6 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+03/29/2015	05/02/2015			a-dark-room	30	4.48	134.40	DKK	S	736683061	Amirali Rajan	A Dark Room			1F		DK			8.00	DKK
+03/29/2015	05/02/2015			theensign	7	4.48	31.36	DKK	S	908073488	Amirali Rajan	The Ensign			1F		DK			8.00	DKK
+Total_Rows	2
+Total_Amount	165.76
+Total_Units	37

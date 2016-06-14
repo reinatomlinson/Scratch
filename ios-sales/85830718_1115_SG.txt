@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+11/01/2015	11/28/2015			a-dark-room	15	0.90	13.50	SGD	S	736683061	Amirali Rajan	A Dark Room			1F		SG			1.28	SGD
+11/01/2015	11/28/2015			theensign	4	0.90	3.60	SGD	S	908073488	Amirali Rajan	The Ensign			1F		SG			1.28	SGD
+11/01/2015	11/28/2015			flatland	3	0.90	2.70	SGD	S	977865620	Amirali Rajan	A Noble Circle			1F		SG			1.28	SGD
+Total_Rows	3
+Total_Amount	19.8
+Total_Units	22

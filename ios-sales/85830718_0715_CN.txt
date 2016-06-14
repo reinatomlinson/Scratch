@@ -1,0 +1,17 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/28/2015	08/01/2015			a-dark-room	-2	4.20	-8.40	CNY	R	736683061	Amirali Rajan	A Dark Room			1F		CN		CMA-C	-6.00	CNY
+06/28/2015	08/01/2015			a-dark-room	1	8.40	8.40	CNY	S	736683061	Amirali Rajan	A Dark Room			1		CN			12.00	CNY
+06/28/2015	08/01/2015			theensign	5	4.20	21.00	CNY	S	908073488	Amirali Rajan	The Ensign			1F		CN			6.00	CNY
+06/28/2015	08/01/2015			amirs-app	3	8.40	25.20	CNY	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CN			12.00	CNY
+06/28/2015	08/01/2015			amirs-app	1	12.60	12.60	CNY	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CN		CMA	18.00	CNY
+06/28/2015	08/01/2015			a-dark-room	15	4.20	63.00	CNY	S	736683061	Amirali Rajan	A Dark Room			1F		CN			6.00	CNY
+06/28/2015	08/01/2015			theensign	1	8.40	8.40	CNY	S	908073488	Amirali Rajan	The Ensign			1F		CN			12.00	CNY
+06/28/2015	08/01/2015			a-dark-room	-1	8.40	-8.40	CNY	R	736683061	Amirali Rajan	A Dark Room			1F		CN			-12.00	CNY
+06/28/2015	08/01/2015			adr-bundle	10	12.60	126.00	CNY	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		CN			18.00	CNY
+06/28/2015	08/01/2015			a-dark-room	10	8.40	84.00	CNY	S	736683061	Amirali Rajan	A Dark Room			1F		CN			12.00	CNY
+06/28/2015	08/01/2015			amirs-app	1	8.40	8.40	CNY	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CN		CMA	12.00	CNY
+06/28/2015	08/01/2015			amirs-app	4	12.60	50.40	CNY	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CN			18.00	CNY
+06/28/2015	08/01/2015			flatland	2	4.20	8.40	CNY	S	977865620	Amirali Rajan	A Noble Circle			1F		CN			6.00	CNY
+Total_Rows	13
+Total_Amount	399
+Total_Units	50

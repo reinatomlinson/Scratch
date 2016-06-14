@@ -1,0 +1,6 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+03/01/2015	03/28/2015			a-dark-room	31	70.00	2170.00	JPY	S	736683061	Amirali Rajan	A Dark Room			1F		JP			100.00	JPY
+03/01/2015	03/28/2015			theensign	2	70.00	140.00	JPY	S	908073488	Amirali Rajan	The Ensign			1F		JP			100.00	JPY
+Total_Rows	2
+Total_Amount	2310
+Total_Units	33

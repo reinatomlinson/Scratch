@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/28/2015	08/01/2015			flatland	1	2.45	2.45	ILS	S	977865620	Amirali Rajan	A Noble Circle			1F		IL			3.50	ILS
+06/28/2015	08/01/2015			adr-bundle	2	7.63	15.26	ILS	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		IL			10.90	ILS
+06/28/2015	08/01/2015			a-dark-room	3	4.83	14.49	ILS	S	736683061	Amirali Rajan	A Dark Room			1F		IL			6.90	ILS
+Total_Rows	3
+Total_Amount	32.2
+Total_Units	6

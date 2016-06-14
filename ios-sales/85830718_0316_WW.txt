@@ -1,0 +1,16 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+02/28/2016	03/26/2016			a-dark-room	14	0.70	9.80	USD	S	736683061	Amirali Rajan	A Dark Room			1F		PH			0.99	USD
+02/28/2016	03/26/2016			a-dark-room	2	0.70	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		UA			0.99	USD
+02/28/2016	03/26/2016			a-dark-room	8	0.70	5.60	USD	S	736683061	Amirali Rajan	A Dark Room			1F		LB			0.99	USD
+02/28/2016	03/26/2016			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		AL			0.99	USD
+02/28/2016	03/26/2016			a-dark-room	25	0.77	19.25	USD	S	736683061	Amirali Rajan	A Dark Room			1F		KR			1.09	USD
+02/28/2016	03/26/2016			a-dark-room	4	0.70	2.80	USD	S	736683061	Amirali Rajan	A Dark Room			1F		MY			0.99	USD
+02/28/2016	03/26/2016			a-dark-room	16	0.70	11.20	USD	S	736683061	Amirali Rajan	A Dark Room			1F		TH			0.99	USD
+02/28/2016	03/26/2016			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		EG			0.99	USD
+02/28/2016	03/26/2016			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1F		TH			0.99	USD
+02/28/2016	03/26/2016			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1F		PH			0.99	USD
+02/28/2016	03/26/2016			flatland	4	0.77	3.08	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		KR			1.09	USD
+02/28/2016	03/26/2016			flatland	1	0.70	0.70	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		UA			0.99	USD
+Total_Rows	12
+Total_Amount	56.63
+Total_Units	78

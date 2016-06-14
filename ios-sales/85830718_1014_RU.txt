@@ -1,0 +1,6 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+09/28/2014	11/01/2014			a-dark-room	19	23.10	438.90	RUB	S	736683061	Amirali Rajan	A Dark Room			1F		RU			33.00	RUB
+09/28/2014	11/01/2014			theensign	5	23.10	115.50	RUB	S	908073488	Amirali Rajan	The Ensign			1		RU			33.00	RUB
+Total_Rows	2
+Total_Amount	554.4
+Total_Units	24

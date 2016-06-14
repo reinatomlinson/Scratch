@@ -1,0 +1,33 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+08/30/2015	09/26/2015			a-dark-room	2	0.70	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		CR			0.99	USD
+08/30/2015	09/26/2015			a-dark-room	1	0.00	0.00	USD	S	736683061	Amirali Rajan	A Dark Room			1F		US		CR	0.00	USD
+08/30/2015	09/26/2015			a-dark-room	2	1.40	2.80	USD	S	736683061	Amirali Rajan	A Dark Room			1F		US			1.99	USD
+08/30/2015	09/26/2015			a-dark-room	-6	0.70	-4.20	USD	R	736683061	Amirali Rajan	A Dark Room			1F		US			-0.99	USD
+08/30/2015	09/26/2015			a-dark-room	3	0.70	2.10	USD	S	736683061	Amirali Rajan	A Dark Room			1F		AR			0.99	USD
+08/30/2015	09/26/2015			a-dark-room	2476	0.70	1733.20	USD	S	736683061	Amirali Rajan	A Dark Room			1F		US			0.99	USD
+08/30/2015	09/26/2015			a-dark-room	5	0.70	3.50	USD	S	736683061	Amirali Rajan	A Dark Room			1F		BR			0.99	USD
+08/30/2015	09/26/2015			a-dark-room	-1	1.40	-1.40	USD	R	736683061	Amirali Rajan	A Dark Room			1F		US			-1.99	USD
+08/30/2015	09/26/2015			a-dark-room	2	0.70	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		CL			0.99	USD
+08/30/2015	09/26/2015			theensign	-2	1.40	-2.80	USD	R	908073488	Amirali Rajan	The Ensign			1F		US			-1.99	USD
+08/30/2015	09/26/2015			theensign	1	1.40	1.40	USD	S	908073488	Amirali Rajan	The Ensign			1F		US			1.99	USD
+08/30/2015	09/26/2015			theensign	995	0.70	696.50	USD	S	908073488	Amirali Rajan	The Ensign			1F		US			0.99	USD
+08/30/2015	09/26/2015			theensign	-2	0.70	-1.40	USD	R	908073488	Amirali Rajan	The Ensign			1F		US			-0.99	USD
+08/30/2015	09/26/2015			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1F		AR			0.99	USD
+08/30/2015	09/26/2015			theensign	2	0.70	1.40	USD	S	908073488	Amirali Rajan	The Ensign			1F		BR			0.99	USD
+08/30/2015	09/26/2015			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1F		DO			0.99	USD
+08/30/2015	09/26/2015			BeautifulGo	37	1.40	51.80	USD	S	955295568	Amirali Rajan	Beautiful Go			1F		US			1.99	USD
+08/30/2015	09/26/2015			flatland	1	0.70	0.70	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		CO			0.99	USD
+08/30/2015	09/26/2015			flatland	44	0.00	0.00	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		US		CR	0.00	USD
+08/30/2015	09/26/2015			flatland	-10	0.70	-7.00	USD	R	977865620	Amirali Rajan	A Noble Circle			1F		US			-0.99	USD
+08/30/2015	09/26/2015			flatland	1	0.70	0.70	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		PE			0.99	USD
+08/30/2015	09/26/2015			flatland	3991	0.70	2793.70	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		US			0.99	USD
+08/30/2015	09/26/2015			flatland	7	0.70	4.90	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		AR			0.99	USD
+08/30/2015	09/26/2015			flatland	1	0.70	0.70	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		CL			0.99	USD
+08/30/2015	09/26/2015			flatland	9	0.70	6.30	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		BR			0.99	USD
+08/30/2015	09/26/2015			flatland	1	0.70	0.70	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		NI			0.99	USD
+08/30/2015	09/26/2015			flatland	1	0.70	0.70	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		EC			0.99	USD
+08/30/2015	09/26/2015			flatland	2	0.70	1.40	USD	S	977865620	Amirali Rajan	A Noble Circle			1F		CR			0.99	USD
+08/30/2015	09/26/2015			amirs-app	2	1.40	2.80	USD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		US			1.99	USD
+Total_Rows	29
+Total_Amount	5292.7
+Total_Units	7567

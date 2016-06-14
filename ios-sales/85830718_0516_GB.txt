@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+05/01/2016	05/28/2016			a-dark-room	294	0.46	135.24	GBP	S	736683061	Amirali Rajan	A Dark Room			1F		GB			0.79	GBP
+05/01/2016	05/28/2016			theensign	58	0.46	26.68	GBP	S	908073488	Amirali Rajan	The Ensign			1F		GB			0.79	GBP
+05/01/2016	05/28/2016			flatland	19	0.46	8.74	GBP	S	977865620	Amirali Rajan	A Noble Circle			1F		GB			0.79	GBP
+Total_Rows	3
+Total_Amount	170.66
+Total_Units	371

@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/01/2014	06/28/2014			a-dark-room	-28	0.82	-22.96	AUD	R	736683061	Amirali Rajan	A Dark Room			1F		AU			-1.29	AUD
+06/01/2014	06/28/2014			a-dark-room	16085	0.82	13189.70	AUD	S	736683061	Amirali Rajan	A Dark Room			1F		AU			1.29	AUD
+06/01/2014	06/28/2014			a-dark-room	2	0.82	1.64	AUD	S	736683061	Amirali Rajan	A Dark Room			1F		AU		EDU	1.29	AUD
+Total_Rows	3
+Total_Amount	13168.38
+Total_Units	16059

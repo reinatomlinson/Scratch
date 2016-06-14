@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/28/2015	08/01/2015			amirs-app	1	7.69	7.69	SAR	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		SA			10.99	SAR
+06/28/2015	08/01/2015			theensign	1	5.10	5.10	SAR	S	908073488	Amirali Rajan	The Ensign			1F		SA			7.29	SAR
+06/28/2015	08/01/2015			a-dark-room	1	5.10	5.10	SAR	S	736683061	Amirali Rajan	A Dark Room			1F		SA			7.29	SAR
+Total_Rows	3
+Total_Amount	17.89
+Total_Units	3

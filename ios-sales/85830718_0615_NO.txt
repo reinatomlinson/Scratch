@@ -1,0 +1,12 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+05/31/2015	06/27/2015			adr-bundle	3	16.24	48.72	NOK	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		NO		CMA	29.00	NOK
+05/31/2015	06/27/2015			a-dark-room	-2	10.64	-21.28	NOK	R	736683061	Amirali Rajan	A Dark Room			1F		NO		CMA-C	-19.00	NOK
+05/31/2015	06/27/2015			a-dark-room	-1	10.64	-10.64	NOK	R	736683061	Amirali Rajan	A Dark Room			1F		NO			-19.00	NOK
+05/31/2015	06/27/2015			adr-bundle	28	16.24	454.72	NOK	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		NO			29.00	NOK
+05/31/2015	06/27/2015			a-dark-room	33	10.64	351.12	NOK	S	736683061	Amirali Rajan	A Dark Room			1F		NO			19.00	NOK
+05/31/2015	06/27/2015			a-dark-room	1	5.04	5.04	NOK	S	736683061	Amirali Rajan	A Dark Room			1F		NO			9.00	NOK
+05/31/2015	06/27/2015			theensign	-1	10.64	-10.64	NOK	R	908073488	Amirali Rajan	The Ensign			1F		NO		CMA-C	-19.00	NOK
+05/31/2015	06/27/2015			theensign	5	10.64	53.20	NOK	S	908073488	Amirali Rajan	The Ensign			1F		NO			19.00	NOK
+Total_Rows	8
+Total_Amount	870.24
+Total_Units	66

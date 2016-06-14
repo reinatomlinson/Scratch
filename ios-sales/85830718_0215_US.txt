@@ -1,0 +1,22 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+02/01/2015	02/28/2015			a-dark-room	21	0.70	14.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		BR			0.99	USD
+02/01/2015	02/28/2015			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		EC			0.99	USD
+02/01/2015	02/28/2015			theensign	4503	0.70	3152.10	USD	S	908073488	Amirali Rajan	The Ensign			1		US			0.99	USD
+02/01/2015	02/28/2015			theensign	-12	0.70	-8.40	USD	R	908073488	Amirali Rajan	The Ensign			1		US			-0.99	USD
+02/01/2015	02/28/2015			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		PE			0.99	USD
+02/01/2015	02/28/2015			BeautifulGo	22	1.40	30.80	USD	S	955295568	Amirali Rajan	Beautiful Go			1F		US			1.99	USD
+02/01/2015	02/28/2015			a-dark-room	2	0.70	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		AR			0.99	USD
+02/01/2015	02/28/2015			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		DO			0.99	USD
+02/01/2015	02/28/2015			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		UY			0.99	USD
+02/01/2015	02/28/2015			a-dark-room	-94	0.70	-65.80	USD	R	736683061	Amirali Rajan	A Dark Room			1F		US			-0.99	USD
+02/01/2015	02/28/2015			theensign	2	0.70	1.40	USD	S	908073488	Amirali Rajan	The Ensign			1		BR			0.99	USD
+02/01/2015	02/28/2015			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		NI			0.99	USD
+02/01/2015	02/28/2015			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		GT			0.99	USD
+02/01/2015	02/28/2015			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		CR			0.99	USD
+02/01/2015	02/28/2015			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		PY			0.99	USD
+02/01/2015	02/28/2015			a-dark-room	2	0.70	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		CL			0.99	USD
+02/01/2015	02/28/2015			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		CO			0.99	USD
+02/01/2015	02/28/2015			a-dark-room	33554	0.70	23487.80	USD	S	736683061	Amirali Rajan	A Dark Room			1F		US			0.99	USD
+Total_Rows	18
+Total_Amount	26621.7
+Total_Units	38009

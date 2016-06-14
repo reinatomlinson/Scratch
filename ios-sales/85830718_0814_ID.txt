@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+08/03/2014	08/30/2014			theensign	3	8400.00	25200.00	IDR	S	908073488	Amirali Rajan	The Ensign			1		ID			12000.00	IDR
+08/03/2014	08/30/2014			a-dark-room	1	16100.00	16100.00	IDR	S	736683061	Amirali Rajan	A Dark Room			1F		ID			23000.00	IDR
+08/03/2014	08/30/2014			a-dark-room	12	8400.00	100800.00	IDR	S	736683061	Amirali Rajan	A Dark Room			1F		ID			12000.00	IDR
+Total_Rows	3
+Total_Amount	142100
+Total_Units	16

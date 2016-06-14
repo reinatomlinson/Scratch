@@ -1,0 +1,12 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+08/02/2015	08/29/2015			a-dark-room	-1	0.82	-0.82	AUD	R	736683061	Amirali Rajan	A Dark Room			1F		AU		CMA-C	-1.29	AUD
+08/02/2015	08/29/2015			a-dark-room	172	0.82	141.04	AUD	S	736683061	Amirali Rajan	A Dark Room			1F		AU			1.29	AUD
+08/02/2015	08/29/2015			a-dark-room	20	0.82	16.40	AUD	S	736683061	Amirali Rajan	A Dark Room			1F		AU		EDU	1.29	AUD
+08/02/2015	08/29/2015			theensign	4	1.58	6.32	AUD	S	908073488	Amirali Rajan	The Ensign			1F		AU			2.49	AUD
+08/02/2015	08/29/2015			theensign	62	0.82	50.84	AUD	S	908073488	Amirali Rajan	The Ensign			1F		AU			1.29	AUD
+08/02/2015	08/29/2015			flatland	6	0.82	4.92	AUD	S	977865620	Amirali Rajan	A Noble Circle			1F		AU			1.29	AUD
+08/02/2015	08/29/2015			amirs-app	1	1.58	1.58	AUD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		AU			2.49	AUD
+08/02/2015	08/29/2015			amirs-app	1	2.41	2.41	AUD	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		AU		CMA	3.79	AUD
+Total_Rows	8
+Total_Amount	222.69
+Total_Units	265

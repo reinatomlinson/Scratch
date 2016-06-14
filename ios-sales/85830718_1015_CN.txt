@@ -1,0 +1,16 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+09/27/2015	10/31/2015			a-dark-room	30	4.12	123.60	CNY	S	736683061	Amirali Rajan	A Dark Room			1F		CN			6.00	CNY
+09/27/2015	10/31/2015			a-dark-room	-1	0.70	-0.70	CNY	R	736683061	Amirali Rajan	A Dark Room			1F		CN			-1.00	CNY
+09/27/2015	10/31/2015			a-dark-room	66	0.70	46.20	CNY	S	736683061	Amirali Rajan	A Dark Room			1F		CN			1.00	CNY
+09/27/2015	10/31/2015			a-dark-room	20	0.69	13.80	CNY	S	736683061	Amirali Rajan	A Dark Room			1F		CN			1.00	CNY
+09/27/2015	10/31/2015			theensign	12	0.69	8.28	CNY	S	908073488	Amirali Rajan	The Ensign			1F		CN			1.00	CNY
+09/27/2015	10/31/2015			theensign	3	4.12	12.36	CNY	S	908073488	Amirali Rajan	The Ensign			1F		CN			6.00	CNY
+09/27/2015	10/31/2015			theensign	-1	0.70	-0.70	CNY	R	908073488	Amirali Rajan	The Ensign			1F		CN			-1.00	CNY
+09/27/2015	10/31/2015			theensign	16	0.70	11.20	CNY	S	908073488	Amirali Rajan	The Ensign			1F		CN			1.00	CNY
+09/27/2015	10/31/2015			flatland	9	0.70	6.30	CNY	S	977865620	Amirali Rajan	A Noble Circle			1F		CN			1.00	CNY
+09/27/2015	10/31/2015			flatland	-1	0.70	-0.70	CNY	R	977865620	Amirali Rajan	A Noble Circle			1F		CN			-1.00	CNY
+09/27/2015	10/31/2015			flatland	15	0.69	10.35	CNY	S	977865620	Amirali Rajan	A Noble Circle			1F		CN			1.00	CNY
+09/27/2015	10/31/2015			amirs-app	1	8.23	8.23	CNY	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		CN			12.00	CNY
+Total_Rows	12
+Total_Amount	238.22
+Total_Units	169

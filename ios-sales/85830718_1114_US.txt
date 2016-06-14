@@ -1,0 +1,19 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+11/02/2014	11/29/2014			a-dark-room	343	1.40	480.20	USD	S	736683061	Amirali Rajan	A Dark Room			1F		US			1.99	USD
+11/02/2014	11/29/2014			a-dark-room	9	0.70	6.30	USD	S	736683061	Amirali Rajan	A Dark Room			1F		BR			0.99	USD
+11/02/2014	11/29/2014			theensign	2644	0.70	1850.80	USD	S	908073488	Amirali Rajan	The Ensign			1		US			0.99	USD
+11/02/2014	11/29/2014			theensign	4	0.00	0.00	USD	S	908073488	Amirali Rajan	The Ensign			1		US		CR	0.00	USD
+11/02/2014	11/29/2014			a-dark-room	1	0.70	0.70	USD	S	736683061	Amirali Rajan	A Dark Room			1F		CO			0.99	USD
+11/02/2014	11/29/2014			theensign	4	0.70	2.80	USD	S	908073488	Amirali Rajan	The Ensign			1		BR			0.99	USD
+11/02/2014	11/29/2014			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1		PE			0.99	USD
+11/02/2014	11/29/2014			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1		CO			0.99	USD
+11/02/2014	11/29/2014			theensign	89	1.40	124.60	USD	S	908073488	Amirali Rajan	The Ensign			1		US			1.99	USD
+11/02/2014	11/29/2014			theensign	1	1.40	1.40	USD	S	908073488	Amirali Rajan	The Ensign			1		BR			1.99	USD
+11/02/2014	11/29/2014			a-dark-room	2575	0.70	1802.50	USD	S	736683061	Amirali Rajan	A Dark Room			1F		US			0.99	USD
+11/02/2014	11/29/2014			a-dark-room	1	1.40	1.40	USD	S	736683061	Amirali Rajan	A Dark Room			1F		BR			1.99	USD
+11/02/2014	11/29/2014			theensign	-3	0.70	-2.10	USD	R	908073488	Amirali Rajan	The Ensign			1		US			-0.99	USD
+11/02/2014	11/29/2014			theensign	1	0.70	0.70	USD	S	908073488	Amirali Rajan	The Ensign			1		PY			0.99	USD
+11/02/2014	11/29/2014			a-dark-room	-25	0.70	-17.50	USD	R	736683061	Amirali Rajan	A Dark Room			1F		US			-0.99	USD
+Total_Rows	15
+Total_Amount	4253.2
+Total_Units	5646

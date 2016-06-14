@@ -1,0 +1,12 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/28/2015	08/01/2015			a-dark-room	6	83.30	499.80	RUB	S	736683061	Amirali Rajan	A Dark Room			1F		RU			119.00	RUB
+06/28/2015	08/01/2015			adr-bundle	3	118.30	354.90	RUB	S	999347389	Amirali Rajan	A Dark Room and The Ensign			1-B		RU			169.00	RUB
+06/28/2015	08/01/2015			amirs-app	1	118.30	118.30	RUB	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		RU		CMA	169.00	RUB
+06/28/2015	08/01/2015			a-dark-room	-1	23.10	-23.10	RUB	R	736683061	Amirali Rajan	A Dark Room			1F		RU		CMA-C	-33.00	RUB
+06/28/2015	08/01/2015			theensign	1	41.30	41.30	RUB	S	908073488	Amirali Rajan	The Ensign			1F		RU			59.00	RUB
+06/28/2015	08/01/2015			a-dark-room	1	83.30	83.30	RUB	S	736683061	Amirali Rajan	A Dark Room			1		RU			119.00	RUB
+06/28/2015	08/01/2015			a-dark-room	5	41.30	206.50	RUB	S	736683061	Amirali Rajan	A Dark Room			1F		RU			59.00	RUB
+06/28/2015	08/01/2015			amirs-app	1	118.30	118.30	RUB	S	999018975	Amirali Rajan	A Dark Room, The Prequel, and Something Special			1-B		RU			169.00	RUB
+Total_Rows	8
+Total_Amount	1399.3
+Total_Units	17
