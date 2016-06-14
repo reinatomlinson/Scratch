@@ -20,11 +20,13 @@ let ListOfFileNames =
 
 //readFile |> List.map
 
-let readFiles =
-  for f in ListOfFileNames.[0..] do
-    File.ReadAllLines(f)
+let GetFileContent f = File.ReadAllLines(f)
 
-printfn "%A" readFiles
+for f in ListOfFileNames.[0..] do
+  printfn "%A" (GetFileContent f)
+
+//let PrintArray a = for i in a.[0..] do printfn "\n%A" a
+
 
 //let ReadFiles =
 //for f in FileList do
