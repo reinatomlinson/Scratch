@@ -36,7 +36,10 @@ let ADRLines =
     |> (fun x -> Seq.toArray(x))
     |> (fun line -> for x in line.[0..] do
                       x.Split [|' '; '\n'; '\t' |]
-                      |> (fun arr -> printfn "game: %A\nno. sold: %A\ncost each: %A\ntotal: %A\ncurrency: %A\n" arr.[4] arr.[5] arr.[6] arr.[7] arr.[8]) )//printfn "%A")
+                      |> (fun arr -> let cost = Single.Parse(arr.[7])
+                                     let curr = arr.[8]
+                                     printfn "%A\n %A\n" cost curr) )
+                      //(fun arr -> printfn "game: %A\nno. sold: %A\ncost each: %A\ntotal: %A\ncurrency: %A\n" arr.[4] arr.[5] arr.[6] arr.[7] arr.[8]) )//printfn "%A")
     //|> printfn "%A"
   //|> Seq.choose (fun x -> x.Split ' ') //|> printfn "%s" //(fun x -> x[2])//need to parse $ amts
 
