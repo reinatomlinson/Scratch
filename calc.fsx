@@ -36,13 +36,13 @@ let ADRLines =
     |> (fun x -> Seq.toArray(x))
     |> (fun line -> for x in line.[0..] do
                       x.Split [|' '; '\n'; '\t' |]
-                      |> printfn "%A")
+                      |> (fun arr -> printfn "game: %A\nno. sold: %A\ncost each: %A\ntotal: %A\ncurrency: %A\n" arr.[4] arr.[5] arr.[6] arr.[7] arr.[8]) )//printfn "%A")
     //|> printfn "%A"
   //|> Seq.choose (fun x -> x.Split ' ') //|> printfn "%s" //(fun x -> x[2])//need to parse $ amts
 
-let str = "hey there"
-let split = str.Split [|' '|]
-printfn "%A" split
+//[4] is where the name of the game is
+//[5;6;7;8] no. sold, cost each, total, currency
+
 //printfn ADRLines
 //ADRLines is type unit == void basically
 
