@@ -34,10 +34,15 @@ let ADRLines =
   for f in ListOfFileNames.[0..] do
     GetFileContent f |> Seq.filter(fun x -> if x.Contains("a-dark-room") then true else false)
     |> (fun x -> Seq.toArray(x))
-    |> (fun line -> for x in line.[0..] do x.Split [|' '|])
-    |> printfn "%A"
+    |> (fun line -> for x in line.[0..] do
+                      x.Split [|' '; '\n'; '\t' |]
+                      |> printfn "%A")
+    //|> printfn "%A"
   //|> Seq.choose (fun x -> x.Split ' ') //|> printfn "%s" //(fun x -> x[2])//need to parse $ amts
 
+let str = "hey there"
+let split = str.Split [|' '|]
+printfn "%A" split
 //printfn ADRLines
 //ADRLines is type unit == void basically
 
