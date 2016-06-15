@@ -22,14 +22,28 @@ let ListOfFileNames =
 
 let GetFileContent f = File.ReadAllLines(f)
 
+//list of game names
+//a-dark-room
+//theensign
+//BeautifulGo
+//flatland (Noble Circle)
+//adr-bundle
 
-for f in ListOfFileNames.[0..] do
-  GetFileContent f |> Seq.filter(fun x -> if x.Contains("a-dark-room") then true else false)
-  //|> printfn "%A" (GetFileContent f)
+//searches each file for "a-dark-room" and selects those lines; do this for each game.
+let ADRLines =
+  for f in ListOfFileNames.[0..] do
+    GetFileContent f |> Seq.filter(fun x -> if x.Contains("a-dark-room") then true else false)
+  //|> Seq.choose (fun x -> x.Split ' ') //|> printfn "%s" //(fun x -> x[2])//need to parse $ amts
 
-let ParseForADR f =
-  GetFileContent f |> Seq.filter(fun x -> if x.Contains("a-dark-room") then true else false)
-  |> printfn "%s" (ParseForADR f |> Seq.length).toString
+printfn ADRLines
+//ADRLines is type unit?????
+
+//let ADRLinesSplit =
+//  Seq.toArray(ADRLines)// |> printfn "%A"
+
+//let ParseForADR f =
+//  GetFileContent f |> Seq.filter(fun x -> if x.Contains("a-dark-room") then true else false)
+//  |> printfn "%s" (ParseForADR f |> Seq.length).toString
 
 //printfn "%d" (ParseForADR |> Seq.length)
 
