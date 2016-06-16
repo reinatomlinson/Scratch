@@ -57,6 +57,9 @@ TWD
 
 *)
 
+//let sums = Array.zeroCreate 23
+let USDsum = 0.0
+
 //searches each file for "a-dark-room" and selects those lines; do this for each game.
 let ADRLines =
   for f in ListOfFileNames.[0..] do
@@ -70,31 +73,32 @@ let ADRLines =
                                      let curr = arr.[8]
                                      //printfn "Start: %A End: %A %A %A" sDate eDate cost curr
                                      //return cost?
-                                     cost) |> (fun amt curr -> match curr with
-                                                               | "USD" -> let USDsum = Seq.sum()//?????
-                                                               | "ZAR" ->
-                                                               | "AUD" ->
-                                                               | "CAD" ->
-                                                               | "CHF" ->
-                                                               | "CNY" ->
-                                                               | "DKK" ->
-                                                               | "EUR" ->
-                                                               | "GBP" ->
-                                                               | "HKD" ->
-                                                               | "IDR" ->
-                                                               | "ILS" ->
-                                                               | "INR" ->
-                                                               | "JPY" ->
-                                                               | "MXN" ->
-                                                               | "NOK" ->
-                                                               | "NZD" ->
-                                                               | "RUB" ->
-                                                               | "SAR" ->
-                                                               | "SEK" ->
-                                                               | "SGD" ->
-                                                               | "TRY" ->
-                                                               | "TWD" ->
-                                     )|> printfn "%A"
+                                     match curr with
+                                       | "USD" -> printfn "%A" cost//(fun x -> sums[0] += x)
+                                                               (*| "ZAR" -> (fun x -> sums[0] += x)
+                                                               | "AUD" -> (fun x -> sums[0] += x)
+                                                               | "CAD" -> (fun x -> sums[0] += x)
+                                                               | "CHF" -> (fun x -> sums[0] += x)
+                                                               | "CNY" -> (fun x -> sums[0] += x)
+                                                               | "DKK" -> (fun x -> sums[0] += x)
+                                                               | "EUR" -> (fun x -> sums[0] += x)
+                                                               | "GBP" -> (fun x -> sums[0] += x)
+                                                               | "HKD" -> (fun x -> sums[0] += x)
+                                                               | "IDR" -> (fun x -> sums[0] += x)
+                                                               | "ILS" -> (fun x -> sums[0] += x)
+                                                               | "INR" -> (fun x -> sums[0] += x)
+                                                               | "JPY" -> (fun x -> sums[0] += x)
+                                                               | "MXN" -> (fun x -> sums[0] += x)
+                                                               | "NOK" -> (fun x -> sums[0] += x)
+                                                               | "NZD" -> (fun x -> sums[0] += x)
+                                                               | "RUB" -> (fun x -> sums[0] += x)
+                                                               | "SAR" -> (fun x -> sums[0] += x)
+                                                               | "SEK" -> (fun x -> sums[0] += x)
+                                                               | "SGD" -> (fun x -> sums[0] += x)
+                                                               | "TRY" -> (fun x -> sums[0] += x)
+                                                               | "TWD" -> (fun x -> sums[0] += x) *)
+                                       | _ -> printfn "dunno"
+                                     )//|> printfn "%A"
 
                        )
                       //(fun arr -> printfn "game: %A\nno. sold: %A\ncost each: %A\ntotal: %A\ncurrency: %A\n" arr.[4] arr.[5] arr.[6] arr.[7] arr.[8]) )//printfn "%A")
