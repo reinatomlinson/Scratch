@@ -29,6 +29,34 @@ let GetFileContent f = File.ReadAllLines(f)
 //flatland (Noble Circle)
 //adr-bundle
 
+(*
+list of currencies
+USD
+ZAR
+AUD
+CAD
+CHF
+CNY
+DKK
+EUR
+GBP
+HKD
+IDR
+ILS
+INR
+JPY
+MXN
+NOK
+NZD
+RUB
+SAR
+SEK
+SGD
+TRY
+TWD
+
+*)
+
 //searches each file for "a-dark-room" and selects those lines; do this for each game.
 let ADRLines =
   for f in ListOfFileNames.[0..] do
@@ -36,9 +64,39 @@ let ADRLines =
     |> (fun x -> Seq.toArray(x))
     |> (fun line -> for x in line.[0..] do
                       x.Split [|' '; '\n'; '\t' |]
-                      |> (fun arr -> let cost = Single.Parse(arr.[7])
+                      |> (fun arr -> let sDate = arr.[0]
+                                     let eDate = arr.[1]
+                                     let cost = Single.Parse(arr.[7])
                                      let curr = arr.[8]
-                                     printfn "%A\n %A\n" cost curr) )
+                                     //printfn "Start: %A End: %A %A %A" sDate eDate cost curr
+                                     //return cost?
+                                     cost) |> (fun amt curr -> match curr with
+                                                               | "USD" -> let USDsum = Seq.sum()//?????
+                                                               | "ZAR" ->
+                                                               | "AUD" ->
+                                                               | "CAD" ->
+                                                               | "CHF" ->
+                                                               | "CNY" ->
+                                                               | "DKK" ->
+                                                               | "EUR" ->
+                                                               | "GBP" ->
+                                                               | "HKD" ->
+                                                               | "IDR" ->
+                                                               | "ILS" ->
+                                                               | "INR" ->
+                                                               | "JPY" ->
+                                                               | "MXN" ->
+                                                               | "NOK" ->
+                                                               | "NZD" ->
+                                                               | "RUB" ->
+                                                               | "SAR" ->
+                                                               | "SEK" ->
+                                                               | "SGD" ->
+                                                               | "TRY" ->
+                                                               | "TWD" ->
+                                     )|> printfn "%A"
+
+                       )
                       //(fun arr -> printfn "game: %A\nno. sold: %A\ncost each: %A\ntotal: %A\ncurrency: %A\n" arr.[4] arr.[5] arr.[6] arr.[7] arr.[8]) )//printfn "%A")
     //|> printfn "%A"
   //|> Seq.choose (fun x -> x.Split ' ') //|> printfn "%s" //(fun x -> x[2])//need to parse $ amts
