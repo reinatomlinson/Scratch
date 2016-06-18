@@ -57,8 +57,6 @@ TWD
 
 *)
 
-let usds = 0.0
-
 //searches each file for "a-dark-room" and selects those lines; do this for each game.
 let ADRLines =
   for f in ListOfFileNames.[0..] do
@@ -71,10 +69,14 @@ let ADRLines =
                                      let cost = Double.Parse(arr.[7])
                                      let curr = arr.[8]
                                      //printfn "Start: %A End: %A %A %A" sDate eDate cost curr
-                                     //return cost?
+                                     //cost
                                      match curr with
-                                       | "USD" -> printfn "usd"
-                                       //let usds = usds + cost//printfn "USD %A" cost
+                                     | "USD" -> cost
+                                     | _ -> 0.0
+
+                                     //cost
+                                     //let sum = match curr with
+                                               //| "USD" -> (sum + cost)//printfn "USD %A" cost
                                                   //(fun x -> sums[0] += x)
                                                                (*| "ZAR" -> (fun x -> sums[0] += x)
                                                                | "AUD" -> (fun x -> sums[0] += x)
@@ -98,14 +100,19 @@ let ADRLines =
                                                                | "SGD" -> (fun x -> sums[0] += x)
                                                                | "TRY" -> (fun x -> sums[0] += x)
                                                                | "TWD" -> (fun x -> sums[0] += x) *)
-                                       | _ -> printfn "dunno"
-                                     )
-
+                                               //| _ -> (printfn "dunno")
+                                     ) |> printfn "USD: %A"
+                                     //|> printfn "%A"
+                                     //|> Seq.filter(fun x -> if x.Contains("USD") then true else false)
+                                     //|> (fun x -> Seq.toArray(x)) |> printfn "%A"
                        )
+                       |> printfn "EOF%A\n\n"
                       //(fun arr -> printfn "game: %A\nno. sold: %A\ncost each: %A\ntotal: %A\ncurrency: %A\n" arr.[4] arr.[5] arr.[6] arr.[7] arr.[8]) )//printfn "%A")
     //|> printfn "%A"
   //|> Seq.choose (fun x -> x.Split ' ') //|> printfn "%s" //(fun x -> x[2])//need to parse $ amts
-printfn "%A" usds
+printfn "**********************\n\n%A" ADRLines
+
+
 //[4] is where the name of the game is
 //[5;6;7;8] no. sold, cost each, total, currency
 
